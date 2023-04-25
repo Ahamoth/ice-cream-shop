@@ -2,14 +2,14 @@
   "name": "team-dream-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Lukyianenko.github.io/team-dream-project",
+  "homepage": "https://Ahamoth.github.io/ice-cream-shop",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-dream-project/"
+    "build": "parcel build src/*.html --public-url /ice-cream-shop/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lukyianenko/team-dream-project.git"
+    "url": "git+https://github.com/Ahamoth/ice-cream-shop.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
